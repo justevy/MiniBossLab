@@ -5,16 +5,16 @@
     "InternalName": "MiniBossLab",
     "Description": "Ingame combat sim",
     "Punchline": "Become a legend without leaving your yard!",
-    "RepoUrl": "https://github.com/USER/MiniBossLab",
+    "RepoUrl": "https://github.com/justevy/MiniBossLab",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "AssemblyVersion": "0.0.1.0",
-    "DownloadLinkInstall": "https://github.com/USER/MiniBossLab/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate":  "https://github.com/USER/MiniBossLab/releases/latest/download/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/USER/MiniBossLab/main/icon.png",
+    "DownloadLinkInstall": "https://github.com/justevy/MiniBossLab/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate":  "https://github.com/justevy/MiniBossLab/releases/latest/download/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/justevy/MiniBossLab/main/icon.png",
     "ImageUrls": [
-      "https://raw.githubusercontent.com/USER/MiniBossLab/main/Resources/Banners/wormhole.png",
-      "https://raw.githubusercontent.com/USER/MiniBossLab/main/Resources/Banners/limitcut.png"
+      "https://raw.githubusercontent.com/justevy/MiniBossLab/main/Resources/Banners/wormhole.png",
+      "https://raw.githubusercontent.com/justevy/MiniBossLab/main/Resources/Banners/limitcut.png"
     ],
     "IsHide": false,
     "IsTestingExclusive": false,
