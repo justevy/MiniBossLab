@@ -1,0 +1,22 @@
+{
+  "Author": "Evy",
+  "Name": "MiniBossLab",
+  "InternalName": "MiniBossLab",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Ingame combat sim",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [
+    "combat",
+    "training",
+    "raiding"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://cdn-icons-png.flaticon.com/512/8074/8074788.png",
+  "Punchline": "Become a legend without leaving your yard!",
+  "AcceptsFeedback": true
+}
