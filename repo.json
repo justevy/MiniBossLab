@@ -8,7 +8,7 @@
     "RepoUrl": "https://github.com/justevy/MiniBossLab",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
-    "AssemblyVersion": "0.0.1.0",
+    "AssemblyVersion": "0.0.2.0",
     "DownloadLinkInstall": "https://github.com/justevy/MiniBossLab/releases/latest/download/latest.zip",
     "DownloadLinkUpdate":  "https://github.com/justevy/MiniBossLab/releases/latest/download/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/justevy/MiniBossLab/main/icon.png",
