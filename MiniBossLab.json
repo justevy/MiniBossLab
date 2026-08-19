@@ -1,22 +1,16 @@
 {
-  "Author": "Evy",
-  "Name": "MiniBossLab",
+  "Author": "William",
+  "Name": "Mini Boss Lab",
   "InternalName": "MiniBossLab",
-  "AssemblyVersion": "0.0.1.0",
-  "Description": "Ingame combat sim",
+  "AssemblyVersion": "0.0.0.1",
+  "MinimumDalamudVersion": "15.0.0",
+  "Description": "Rejoue des mecaniques de raid hors instance, avec telegraphes et verification de position. Commande principale : /mbl",
   "ApplicableVersion": "any",
-  "RepoUrl": "",
-  "Tags": [
-    "combat",
-    "training",
-    "raiding"
-  ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://cdn-icons-png.flaticon.com/512/8074/8074788.png",
-  "Punchline": "Become a legend without leaving your yard!",
+  "Punchline": "Entrainement aux mecaniques de raid.",
   "AcceptsFeedback": true
 }

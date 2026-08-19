@@ -1,21 +1,16 @@
 [
   {
-    "Author": "Evy",
-    "Name": "MiniBossLab",
+    "Author": "William",
+    "Name": "Mini Boss Lab",
     "InternalName": "MiniBossLab",
-    "Description": "Ingame combat sim",
-    "Punchline": "Become a legend without leaving your yard!",
+    "Description": "Rejoue des mecaniques de raid hors instance, avec telegraphes et verification de position. Commande principale : /mbl",
+    "Punchline": "Entrainement aux mecaniques de raid.",
     "RepoUrl": "https://github.com/justevy/MiniBossLab",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
-    "AssemblyVersion": "0.0.2.0",
+    "DalamudApiLevel": 15,
+    "AssemblyVersion": "0.0.0.1",
     "DownloadLinkInstall": "https://github.com/justevy/MiniBossLab/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate":  "https://github.com/justevy/MiniBossLab/releases/latest/download/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/justevy/MiniBossLab/main/icon.png",
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/justevy/MiniBossLab/main/Resources/Banners/wormhole.png",
-      "https://raw.githubusercontent.com/justevy/MiniBossLab/main/Resources/Banners/limitcut.png"
-    ],
+    "DownloadLinkUpdate": "https://github.com/justevy/MiniBossLab/releases/latest/download/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "Tags": [ "combat", "training", "raiding" ]
